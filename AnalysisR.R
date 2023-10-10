@@ -7,3 +7,4 @@ plot(x,y)
 summary(x)
 median(x)
 mean(x)
+#just a comment
